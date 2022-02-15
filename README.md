@@ -274,7 +274,7 @@ export class AppModule { }
 
 
 # OUTPUT:
-![output](ANGULAR.png)
+![output](angular.png)
 
 
 
